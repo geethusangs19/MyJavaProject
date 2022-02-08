@@ -3,14 +3,14 @@ package Practice;
 public class Banking {
 
 	static void displayBankDetails(double iRate, double hRate, double cRate, int totBranch, String bankName, String mainBranch) {
-		
+		//testing for github commits
 		System.out.println(bankName);
 		System.out.println("===============================================================");
 		System.out.println("Interest Rate                   	  : " + iRate);
 		System.out.println("Home Loan Interest Rate                   : " + hRate);
 		System.out.println("Car Loan Interest Rate                    : " + cRate);
 		System.out.println("Total No of Branches                      : " + totBranch);
-		System.out.println("Main Branch Name here                     : " + mainBranch);
+		System.out.println("Main Branch Name                          : " + mainBranch);
 		System.out.println("===============================================================");
 	}
 	public static void main(String[] args) {
