@@ -14,6 +14,6 @@ public class ATM {
 	}
 	
 	public void sendEmail() {
-		System.out.println("Email sent");
+		System.out.println("Email sent"); //ok pass is test
 	}
 }
